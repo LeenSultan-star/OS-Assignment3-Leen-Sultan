@@ -14,7 +14,8 @@
 > Set sharing to "Anyone with the link can view".
 > Test the link in incognito/private mode before submitting.
 
-**Video Link**: [Paste your personal Gmail Google Drive link here]
+**Video Link**: [https://drive.google.com/file/d/1kKZM1G3FGZtLfL0Gso_e4CTO87QpXYJz/view?usp=drivesdk]
+
 
 **Video filename**: `[YourStudentID]_Assignment3_Synchronization.mp4`
 
@@ -361,15 +362,15 @@ Give TWO examples where synchronization is critical:
 
 ## Part 6: GitHub Repository Information
 
-**Repository URL**: 
+**Repository URL**: https://github.com/LeenSultan-star/OS-Assignment3-Leen-Sultan
 
 **Number of commits**: 5
 
 **Commit messages**: 
-1. Added My ID
-2. Added synchronization locks for shared counters
+1. set My ID 445052128
+2. Implemented ReentranLock synchronizaition
 3. Added semaphore synchronization in run method
-4. Added synchronization locks for shared counters
+4. Protected execution log critical section
 5. Final testing and documentation update
 
 ---
