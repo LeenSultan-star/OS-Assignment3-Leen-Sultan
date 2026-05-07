@@ -366,10 +366,11 @@ Give TWO examples where synchronization is critical:
 **Number of commits**: 5
 
 **Commit messages**: 
-1. 
+1. Added My ID
 2. Added synchronization locks for shared counters
 3. Added semaphore synchronization in run method
-4. 
+4. Added synchronization locks for shared counters
+5. Final testing and documentation update
 
 ---
 
@@ -378,13 +379,15 @@ Give TWO examples where synchronization is critical:
 **Total time spent on assignment**: 
 
 **Key takeaways**: 
-1. 
-2. 
-3. 
+1. Synchronization prevents race conditions
+2. Locks and semaphores solve different concurrency problems
+3. Proper testing is important in multithreaded programs
 
 **Most challenging aspect**: 
+Understanding where synchronization was required and preventing deadlocks.
 
 **What I'm most proud of**: 
+Successfully implementing synchronization mechanisms and making the scheduler run correctly without concurrency issues.
 
 ---
 
